@@ -1,5 +1,5 @@
 # ghidra-themes
-A collection of themes for ghidra
+A collection of themes for ghidra to make long hours of reverse-engineering even more enjoyable!
 
 ## Adding Theme
 
