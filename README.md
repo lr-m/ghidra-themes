@@ -17,5 +17,6 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 Inspired by the 'viridis' colour palette seen in matplotlib
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/9c95a672-43e3-4f31-aa88-95da89fbffe9)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/0963d624-b0d9-436c-a12e-f14c00db7c14)
+
 
