@@ -11,6 +11,10 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 4. Locate and select the `*.theme` file you downloaded earlier
 5. The theme should now be installed!
 
+## Default Dark Mode
+
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/fa1526b7-2a10-442b-83e7-9ad95893a707)
+
 ## Themes
 
 ### Viridis
