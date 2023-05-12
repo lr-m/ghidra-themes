@@ -31,11 +31,11 @@ color.fg.listing.underline = color.viridis.bluegreen
 color.fg.listing.xref = color.viridis.blue
 color.fg.listing.xref.read = color.viridis.lightpurple
 color.fg.listing.ext.ref.unresolved = color.viridis.yellow
-[color]system.color.bg.view = #282a2d
+[color]system.color.bg.view = #1f1f2e
 [color]system.color.fg.view = #c5c8c5
 font.monospaced = Monospaced-PLAIN-12
 
-color.viridis.lightpurple = #525bad
+color.viridis.lightpurple = #747cbe
 color.viridis.blue = #287D8E
 color.viridis.turquoise = #20A387
 color.viridis.bluegreen = #29AF7F
