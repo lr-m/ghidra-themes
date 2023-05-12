@@ -1,6 +1,8 @@
 # ghidra-themes
 A collection of themes for ghidra to make long hours of reverse-engineering even more enjoyable!
 
+(Shout out the O.G. [dark mode](https://github.com/zackelia/ghidra-dark) for carrying me through the dark days, the new theme for that is [here](https://github.com/zackelia/ghidra-dark-theme))
+
 ## Adding Theme
 
 1. Download the theme you want from this repository
