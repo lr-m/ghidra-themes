@@ -23,4 +23,9 @@ Inspired by the 'viridis' colour palette seen in matplotlib
 
 ![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/0963d624-b0d9-436c-a12e-f14c00db7c14)
 
+### Retro
+
+A trip down memory lane (inspired by my wallpaper)
+
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/b975108f-59ac-4af9-ac73-bfc507dbb7ac)
 
