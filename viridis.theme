@@ -6,7 +6,6 @@ color.fg.decompiler.comment = color.viridis.lightpurple
 color.fg.decompiler.constant = color.viridis.turquoise
 color.fg.decompiler.function.name = color.palette.purple
 color.fg.decompiler.keyword = color.viridis.lightpurple 
-color.fg.decompiler.parameters = color.viridis.lightpurple
 color.fg.decompiler.type = color.viridis.blue
 color.fg.decompiler.variable = color.palette.olive
 color.fg.decompiler.parameter = color.viridis.lightpurple
