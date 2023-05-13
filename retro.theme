@@ -25,7 +25,7 @@ color.fg.listing.function.name = color.retro.orange
 color.fg.listing.function.param.dynamic = color.retro.turquoise
 color.fg.listing.label.local = color.retro.blue
 color.fg.listing.label.primary = color.retro.red
-color.fg.listing.mnemonic = color.retro.blue
+color.fg.listing.mnemonic = color.retro.turquoise
 color.fg.listing.mnemonic.override = color.fg
 color.fg.listing.underline = color.retro.bluegreen
 color.fg.listing.xref = color.retro.blue
@@ -39,6 +39,8 @@ color.fg.listing.function.tag = color.retro.lightblue
 [color]system.color.bg.view = color.retro.dark
 [color]system.color.fg.view = #c5c8c5
 font.monospaced = Monospaced-PLAIN-12
+
+color.palette.aliceblue = #003333
 
 color.retro.lightblue = #93d2bd
 color.retro.dark = #04141c
