@@ -36,6 +36,7 @@ color.fg.listing.register = color.retro.pale
 color.fg.listing.function.variable = color.retro.yellow
 color.fg.listing.block.start = color.retro.lightblue
 color.fg.listing.function.tag = color.retro.lightblue
+color.bg.selection = color.palette.aliceblue
 [color]system.color.bg.view = color.retro.dark
 [color]system.color.fg.view = #c5c8c5
 font.monospaced = Monospaced-PLAIN-12
