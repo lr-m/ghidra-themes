@@ -21,18 +21,16 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 Inspired by the 'viridis' colour palette seen in matplotlib
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/00cb3f9a-2c2b-4a38-8cb7-f107ad50f16c)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/89304fe4-28f5-4f19-86ed-722463490718)
 
 ### Retro
 
 A trip down memory lane (inspired by my wallpaper)
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/9e690565-9694-4aa1-a92a-288cb603f095)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/f809d5ec-4626-447c-aa9f-e1e153b216e2)
 
 ### Apple
 
 Inspired by the old colours seen on the apple logo
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/a3f66652-3a7c-43cc-819b-90ee3ae0c821)
-
-
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/12968dc2-dfd7-42ed-94c5-8f3ecd921744)
