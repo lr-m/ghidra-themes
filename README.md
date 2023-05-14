@@ -13,7 +13,7 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 ## Default Dark Mode
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/fa1526b7-2a10-442b-83e7-9ad95893a707)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/5dc3e26f-3769-46c4-a96f-b6775710690d)
 
 ## Themes
 
@@ -21,11 +21,18 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 Inspired by the 'viridis' colour palette seen in matplotlib
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/0963d624-b0d9-436c-a12e-f14c00db7c14)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/00cb3f9a-2c2b-4a38-8cb7-f107ad50f16c)
 
 ### Retro
 
 A trip down memory lane (inspired by my wallpaper)
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/52f132ef-8fc7-4a58-acda-b2f961cce1cc)
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/9e690565-9694-4aa1-a92a-288cb603f095)
+
+### Apple
+
+Inspired by the old colours seen on the apple logo
+
+![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/a3f66652-3a7c-43cc-819b-90ee3ae0c821)
+
 
