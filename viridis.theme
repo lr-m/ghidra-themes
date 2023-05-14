@@ -2,6 +2,7 @@ name = viridis
 lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
+
 color.fg.decompiler.comment = color.viridis.lightpurple
 color.fg.decompiler.constant = color.viridis.turquoise
 color.fg.decompiler.function.name = color.palette.purple
@@ -9,6 +10,7 @@ color.fg.decompiler.keyword = color.viridis.lightpurple
 color.fg.decompiler.type = color.viridis.blue
 color.fg.decompiler.variable = color.palette.olive
 color.fg.decompiler.parameter = color.viridis.lightpurple
+
 color.fg.listing.bytes = color.viridis.lightpurple
 color.fg.listing.comment.auto = color.viridis.lightpurple
 color.fg.listing.comment.eol = color.viridis.lightpurple
@@ -30,9 +32,12 @@ color.fg.listing.underline = color.viridis.bluegreen
 color.fg.listing.xref = color.viridis.blue
 color.fg.listing.xref.read = color.viridis.lightpurple
 color.fg.listing.ext.ref.unresolved = color.viridis.yellow
-[color]system.color.bg.view = #1f1f2e
-[color]system.color.fg.view = #c5c8c5
-font.monospaced = Monospaced-PLAIN-12
+
+color.bg.undefined = color.palette.aliceblue
+color.bg.header.active = color.viridis.blue
+color.bg.header.inactive = color.palette.aliceblue
+
+color.palette.aliceblue = #29293d
 
 color.viridis.lightpurple = #747cbe
 color.viridis.blue = #287D8E
@@ -41,3 +46,8 @@ color.viridis.bluegreen = #29AF7F
 color.viridis.green = #55C667
 color.viridis.yellowgreen = #B8DE29
 color.viridis.yellow = #FDE725
+
+[color]system.color.bg.view = #1f1f2e
+[color]system.color.fg.view = #c5c8c5
+
+font.monospaced = Monospaced-PLAIN-12

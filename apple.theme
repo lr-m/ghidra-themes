@@ -2,6 +2,7 @@ name = apple
 lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
+
 color.fg.decompiler.comment = color.apple.orange
 color.fg.decompiler.constant = color.apple.purple
 color.fg.decompiler.function.name = color.apple.orange
@@ -10,6 +11,7 @@ color.fg.decompiler.type = color.apple.red
 color.fg.decompiler.variable = color.apple.yellow
 color.fg.decompiler.parameter = color.apple.blue
 color.fg.decompiler.global = color.apple.yellow
+
 color.fg.listing.bytes = color.apple.blue
 color.fg.listing.comment.auto = color.apple.red
 color.fg.listing.comment.eol = color.apple.red
@@ -36,17 +38,14 @@ color.fg.listing.register = color.apple.yellow
 color.fg.listing.function.variable = color.apple.blue
 color.fg.listing.block.start = color.apple.yellow
 color.fg.listing.function.tag = color.apple.yellow
-color.bg.selection = color.palette.aliceblue
-color.palette.highlight.transparent.yellow = #454d54
 color.fg.listing.tabs.text.selected = #454d54
-[color]system.color.bg.view = color.apple.grey
-[color]system.color.fg.view = color.apple.white
 
-color.bg.header.active = color.apple.green
-
-font.monospaced = Monospaced-PLAIN-12
+color.bg.selection = color.palette.aliceblue
+color.bg.undefined = color.palette.aliceblue
+color.bg.header.active = color.apple.purple
 
 color.palette.aliceblue =  #2e3338
+color.palette.highlight.transparent.yellow = #454d54
 
 color.apple.green = #00a04a
 color.apple.yellow = #d3b43f
@@ -56,3 +55,8 @@ color.apple.purple = #895cbc
 color.apple.blue = #0384df
 color.apple.grey = #22262a
 color.apple.white = #cfd7e8
+
+[color]system.color.bg.view = color.apple.grey
+[color]system.color.fg.view = color.apple.white
+
+font.monospaced = Monospaced-PLAIN-12

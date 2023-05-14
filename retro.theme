@@ -2,6 +2,7 @@ name = retro
 lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
+
 color.fg.decompiler.comment = color.retro.red
 color.fg.decompiler.constant = color.retro.turquoise
 color.fg.decompiler.function.name = color.retro.red
@@ -10,6 +11,7 @@ color.fg.decompiler.type = color.retro.orange
 color.fg.decompiler.variable = color.retro.pale
 color.fg.decompiler.parameter = color.retro.yellow
 color.fg.decompiler.global = color.retro.lightblue
+
 color.fg.listing.bytes = color.retro.yellow
 color.fg.listing.comment.auto = color.retro.orange
 color.fg.listing.comment.eol = color.retro.orange
@@ -36,10 +38,11 @@ color.fg.listing.register = color.retro.pale
 color.fg.listing.function.variable = color.retro.yellow
 color.fg.listing.block.start = color.retro.lightblue
 color.fg.listing.function.tag = color.retro.lightblue
+
 color.bg.selection = color.palette.aliceblue
-[color]system.color.bg.view = color.retro.dark
-[color]system.color.fg.view = #c5c8c5
-font.monospaced = Monospaced-PLAIN-12
+color.bg.undefined = color.palette.aliceblue
+color.bg.header.active = color.retro.red
+color.bg.header.inactive = color.palette.aliceblue
 
 color.palette.aliceblue = #003333
 
@@ -51,3 +54,8 @@ color.retro.pale = #e8d7a4
 color.retro.red = #b7300c
 color.retro.orange = #cc6404
 color.retro.yellow = #eb9b04
+
+[color]system.color.bg.view = color.retro.dark
+[color]system.color.fg.view = #c5c8c5
+
+font.monospaced = Monospaced-PLAIN-12
