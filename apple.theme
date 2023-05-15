@@ -47,6 +47,9 @@ color.bg.header.active = color.apple.purple
 color.palette.aliceblue =  #2e3338
 color.palette.highlight.transparent.yellow = #454d54
 
+color.bg.filterfield = color.palette.aliceblue
+color.fg.filterfield = color.apple.white
+
 color.apple.green = #00a04a
 color.apple.yellow = #d3b43f
 color.apple.orange = #ce6239
