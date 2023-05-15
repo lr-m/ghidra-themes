@@ -43,6 +43,7 @@ color.fg.listing.tabs.text.selected = #454d54
 color.bg.selection = color.palette.aliceblue
 color.bg.undefined = color.palette.aliceblue
 color.bg.header.active = color.apple.purple
+color.bg.header.inactive = color.palette.aliceblue
 
 color.palette.aliceblue =  #2e3338
 color.palette.highlight.transparent.yellow = #454d54
