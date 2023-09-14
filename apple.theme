@@ -10,7 +10,7 @@ color.fg.decompiler.keyword = color.apple.green
 color.fg.decompiler.type = color.apple.red
 color.fg.decompiler.variable = color.apple.yellow
 color.fg.decompiler.parameter = color.apple.blue
-color.fg.decompiler.global = color.apple.yellow
+color.fg.decompiler.global = color.apple.green
 
 color.fg.listing.bytes = color.apple.blue
 color.fg.listing.comment.auto = color.apple.red
