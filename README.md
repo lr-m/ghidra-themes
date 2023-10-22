@@ -35,8 +35,5 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 ### Viridis
 
-![viridis](https://github.com/luke-r-m/ghidra-themes/assets/47477832/1737ae9c-d1e6-4f71-a2b6-736ce1ca5ce9)
-
-
-
+![viridis](https://github.com/luke-r-m/ghidra-themes/assets/47477832/d50f0285-00da-4b6e-b772-163aec763ea0)
 
