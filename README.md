@@ -17,20 +17,26 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 ## Themes
 
-### Viridis
+### Apple
 
-Inspired by the 'viridis' colour palette seen in matplotlib
+![apple](https://github.com/luke-r-m/ghidra-themes/assets/47477832/728f03b5-30be-4998-80fe-83296aee337c)
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/89304fe4-28f5-4f19-86ed-722463490718)
+### Burn
+
+![burn](https://github.com/luke-r-m/ghidra-themes/assets/47477832/ab141774-4994-4d77-89a5-7e072b08658c)
+
+### Icicle
+
+![icicle](https://github.com/luke-r-m/ghidra-themes/assets/47477832/a0131bf4-bc78-4fd5-ab79-1ff92defa65f)
 
 ### Retro
 
-A trip down memory lane (inspired by my wallpaper)
+![retro](https://github.com/luke-r-m/ghidra-themes/assets/47477832/1f061bf6-49df-4d27-b153-eb86b13d589e)
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/f809d5ec-4626-447c-aa9f-e1e153b216e2)
+### Viridis
 
-### Apple
+![viridis](https://github.com/luke-r-m/ghidra-themes/assets/47477832/1737ae9c-d1e6-4f71-a2b6-736ce1ca5ce9)
 
-Inspired by the old colours seen on the apple logo
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/12968dc2-dfd7-42ed-94c5-8f3ecd921744)
+
+
