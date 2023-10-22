@@ -1,0 +1,72 @@
+name = burn
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+color.cursor.focused = color.fg
+
+color.fg.decompiler.comment = color.sunset.Chocolate
+color.fg.decompiler.constant = color.sunset.DarkOrange
+color.fg.decompiler.function.name = color.sunset.Gold
+color.fg.decompiler.keyword = color.sunset.GoldenRod
+color.fg.decompiler.type = color.sunset.GoldenRod
+color.fg.decompiler.variable = color.sunset.OrangeRed
+color.fg.decompiler.parameter = color.sunset.MediumPurple
+color.fg.decompiler.global = color.sunset.LightSeaGreen
+
+color.fg.listing.bytes = color.sunset.OrangeRed
+color.fg.listing.comment.auto = color.sunset.Chocolate
+color.fg.listing.comment.eol = color.sunset.Chocolate
+color.fg.listing.comment.plate = color.sunset.Chocolate
+color.fg.listing.comment.post = color.sunset.Chocolate
+color.fg.listing.comment.pre = color.sunset.Chocolate
+color.fg.listing.comment.ref.repeatable = color.sunset.Chocolate
+color.fg.listing.comment.repeatable = color.sunset.Chocolate
+color.fg.listing.constant = color.sunset.DarkOrange
+color.fg.listing.ext.entrypoint = color.sunset.Black
+color.fg.listing.ext.ref.resolved = color.sunset.DarkOrange
+color.fg.listing.function.name = color.sunset.Gold
+color.fg.listing.function.param.dynamic = color.sunset.DarkOrange
+color.fg.listing.label.local = color.sunset.LightSeaGreen
+color.fg.listing.label.primary = color.sunset.Chocolate
+color.fg.listing.mnemonic = color.sunset.LightSeaGreen
+color.fg.listing.mnemonic.override = color.sunset.Black
+color.fg.listing.underline = color.sunset.Chocolate
+color.fg.listing.xref = color.sunset.LightSeaGreen
+color.fg.listing.xref.read = color.sunset.Chocolate
+color.fg.listing.ext.ref.unresolved = color.sunset.SlateBlue
+color.fg.listing.label.non.primary = color.sunset.white
+color.fg.listing.register = color.sunset.MediumPurple
+color.fg.listing.function.variable = color.sunset.Tomato
+color.fg.listing.block.start = color.sunset.Gold
+color.fg.listing.function.tag = color.sunset.Gold
+color.fg.listing.tabs.text.selected = color.sunset.DarkGray
+color.fg.listing.address = color.sunset.SlateBlue
+
+color.bg.selection = color.sunset.DarkRed
+color.bg.undefined = color.sunset.DarkSlateGray
+color.bg.header.active = color.sunset.DarkGoldenRod
+color.bg.header.inactive = color.sunset.DarkSlateGray
+
+color.bg.filterfield = color.sunset.DarkSlateGray
+color.fg.filterfield = color.sunset.white
+
+[color]system.color.bg.view = color.sunset.black
+[color]system.color.fg.view = color.sunset.SlateBlue
+
+color.sunset.DarkRed = #3B0000
+color.sunset.Chocolate = #D2691E
+color.sunset.DarkOrange = #FF8C00
+color.sunset.Gold = #FFD700
+color.sunset.OrangeRed = #FF4500
+color.sunset.Tomato = #FF6347
+color.sunset.LightSeaGreen = #3ADCD0
+color.sunset.MediumPurple = #AF9EE3
+color.sunset.SlateBlue = #B0E0E6
+color.sunset.Orange = #FFA500
+color.sunset.DarkSlateGray = #2E3338
+color.sunset.DarkGray = #A0A0A0
+color.sunset.DarkGoldenRod = #704214
+color.sunset.white = #cfd7e8
+color.sunset.GoldenRod = #DAA520
+color.sunset.black = #242124
+
+font.monospaced = Monospaced-PLAIN-12

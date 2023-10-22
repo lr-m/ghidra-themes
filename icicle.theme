@@ -1,0 +1,68 @@
+ 
+name = icicle
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+color.cursor.focused = color.fg
+
+color.fg.decompiler.comment = color.icicle.GreenBlue
+color.fg.decompiler.constant = color.icicle.White
+color.fg.decompiler.function.name = color.icicle.DarkBlue
+color.fg.decompiler.keyword = color.icicle.LightSteelBlue
+color.fg.decompiler.type = color.icicle.LightSkyBlue
+color.fg.decompiler.variable = color.icicle.PowderBlue
+color.fg.decompiler.parameter = color.icicle.SkyBlue
+color.fg.decompiler.global = color.icicle.LightCyan
+
+color.fg.listing.bytes = color.icicle.DarkBlue
+color.fg.listing.comment.auto = color.icicle.GreenBlue
+color.fg.listing.comment.eol = color.icicle.GreenBlue
+color.fg.listing.comment.plate = color.icicle.GreenBlue
+color.fg.listing.comment.post = color.icicle.GreenBlue
+color.fg.listing.comment.pre = color.icicle.GreenBlue
+color.fg.listing.comment.ref.repeatable = color.icicle.White
+color.fg.listing.comment.repeatable = color.icicle.White
+color.fg.listing.constant = color.icicle.LightBlue
+color.fg.listing.ext.entrypoint = color.icicle.Black
+color.fg.listing.ext.ref.resolved = color.icicle.LightBlue
+color.fg.listing.function.name = color.icicle.Gainsboro
+color.fg.listing.function.param.dynamic = color.icicle.LightBlue
+color.fg.listing.label.local = color.icicle.LightCyan
+color.fg.listing.label.primary = color.icicle.White
+color.fg.listing.mnemonic = color.icicle.LightCyan
+color.fg.listing.mnemonic.override = color.icicle.Black
+color.fg.listing.underline = color.icicle.White
+color.fg.listing.xref = color.icicle.LightCyan
+color.fg.listing.xref.read = color.icicle.White
+color.fg.listing.ext.ref.unresolved = color.icicle.LightBlue
+color.fg.listing.label.non.primary = color.icicle.White
+color.fg.listing.register = color.icicle.SkyBlue
+color.fg.listing.function.variable = color.icicle.LightSkyBlue
+color.fg.listing.block.start = color.icicle.Gainsboro
+color.fg.listing.function.tag = color.icicle.Gainsboro
+color.fg.listing.tabs.text.selected = color.icicle.Gainsboro
+color.fg.listing.address = color.icicle.LightBlue
+color.fg.listing.ref.bad = color.icicle.DarkBlue
+
+color.bg.selection = color.icicle.VeryDarkBlue
+color.bg.undefined = color.icicle.DarkSlateGray
+color.bg.header.active = color.icicle.SlateGray
+color.bg.header.inactive = color.icicle.DarkSlateGray
+
+color.bg.filterfield = color.icicle.DarkSlateGray
+color.fg.filterfield = color.icicle.White
+
+color.icicle.DarkSlateGray = #2F4F4F
+color.icicle.LightSlateGray = #778899
+color.icicle.SlateGray = #708090
+color.icicle.White = #F8F8FF
+color.icicle.LightBlue = #ADD8E6
+color.icicle.GreenBlue = #5CFFF7
+color.icicle.Gainsboro = #DCDCDC
+color.icicle.LightSteelBlue = #B0C4DE
+color.icicle.LightSkyBlue = #87CEFA
+color.icicle.PowderBlue = #B0E0E6
+color.icicle.SkyBlue = #87CEEB
+color.icicle.DarkBlue = #30ACD8
+color.icicle.VeryDarkBlue = #000050
+color.icicle.LightCyan = #E0FFFF
+color.icicle.Black = #000000
