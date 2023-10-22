@@ -33,6 +33,7 @@ color.fg.listing.xref = color.viridis.blue
 color.fg.listing.xref.read = color.viridis.lightpurple
 color.fg.listing.ext.ref.unresolved = color.viridis.yellow
 
+color.bg.selection = color.viridis.darkpurple
 color.bg.undefined = color.palette.aliceblue
 color.bg.header.active = color.viridis.blue
 color.bg.header.inactive = color.palette.aliceblue
@@ -46,6 +47,7 @@ color.viridis.bluegreen = #29AF7F
 color.viridis.green = #55C667
 color.viridis.yellowgreen = #B8DE29
 color.viridis.yellow = #FDE725
+color.viridis.darkpurple = #4d194d
 
 [color]system.color.bg.view = #1f1f2e
 [color]system.color.fg.view = #c5c8c5
