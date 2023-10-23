@@ -12,6 +12,8 @@ color.fg.decompiler.type = color.icicle.LightSkyBlue
 color.fg.decompiler.variable = color.icicle.PowderBlue
 color.fg.decompiler.parameter = color.icicle.SkyBlue
 color.fg.decompiler.global = color.icicle.LightCyan
+color.fg.decompiler.error = color.icicle.DarkBlue
+color.fg.decompiler.special = color.icicle.ErrorBlue
 
 color.fg.listing.bytes = color.icicle.DarkBlue
 color.fg.listing.comment.auto = color.icicle.GreenBlue
@@ -66,3 +68,4 @@ color.icicle.DarkBlue = #30ACD8
 color.icicle.VeryDarkBlue = #000050
 color.icicle.LightCyan = #E0FFFF
 color.icicle.Black = #000000
+color.icicle.ErrorBlue = #00FFCC
