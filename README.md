@@ -13,27 +13,50 @@ A collection of themes for ghidra to make long hours of reverse-engineering even
 
 ## Default Dark Mode
 
-![image](https://github.com/luke-r-m/ghidra-themes/assets/47477832/5dc3e26f-3769-46c4-a96f-b6775710690d)
+![Screenshot from 2024-01-21 17-43-44](https://github.com/luke-r-m/ghidra-themes/assets/47477832/40e352f2-cc80-403c-ae5b-b4a664576413)
 
 ## Themes
 
+### 1337
+
+![Screenshot from 2024-01-21 17-39-47](https://github.com/luke-r-m/ghidra-themes/assets/47477832/7a1dc7c0-a0f6-45e4-9034-c59c4c7921e1)
+
 ### Apple
 
-![apple](https://github.com/luke-r-m/ghidra-themes/assets/47477832/728f03b5-30be-4998-80fe-83296aee337c)
+![Screenshot from 2024-01-21 17-40-03](https://github.com/luke-r-m/ghidra-themes/assets/47477832/cdb0056b-5df5-401b-86ee-7c012e7eed2f)
 
 ### Burn
 
-![burn](https://github.com/luke-r-m/ghidra-themes/assets/47477832/ab141774-4994-4d77-89a5-7e072b08658c)
+![Screenshot from 2024-01-21 17-40-15](https://github.com/luke-r-m/ghidra-themes/assets/47477832/76be2396-0d49-43a9-af39-63210bf3923f)
+
+### Crayon
+
+![Screenshot from 2024-01-21 17-40-30](https://github.com/luke-r-m/ghidra-themes/assets/47477832/ae90fd6c-e0c7-4a1b-b46c-d8e6ffa2a6c5)
+
+### Cute
+
+![Screenshot from 2024-01-21 17-40-43](https://github.com/luke-r-m/ghidra-themes/assets/47477832/b81d4ea4-9ffd-483e-b678-fb1da0df80ae)
 
 ### Icicle
 
-![icicle](https://github.com/luke-r-m/ghidra-themes/assets/47477832/a0131bf4-bc78-4fd5-ab79-1ff92defa65f)
+![Screenshot from 2024-01-21 17-41-19](https://github.com/luke-r-m/ghidra-themes/assets/47477832/fd408131-c604-4d54-bc14-6153d35e7065)
+
+### Neon
+
+![Screenshot from 2024-01-21 17-41-36](https://github.com/luke-r-m/ghidra-themes/assets/47477832/08202226-4f39-4f14-9036-f05ff4d47aa4)
 
 ### Retro
 
-![retro](https://github.com/luke-r-m/ghidra-themes/assets/47477832/1f061bf6-49df-4d27-b153-eb86b13d589e)
+![Screenshot from 2024-01-21 17-41-59](https://github.com/luke-r-m/ghidra-themes/assets/47477832/5d900091-8e9f-4bb1-af90-e7f1404856ce)
+
+### Sunset
+
+![Screenshot from 2024-01-21 17-42-30](https://github.com/luke-r-m/ghidra-themes/assets/47477832/addc4593-dab6-47ac-9e20-eaf8ce2c218d)
+
+### Vaporwave
+
+![Screenshot from 2024-01-21 17-42-50](https://github.com/luke-r-m/ghidra-themes/assets/47477832/d66c37ee-7430-4ca2-86b2-c5b31360fa93)
 
 ### Viridis
 
-![viridis](https://github.com/luke-r-m/ghidra-themes/assets/47477832/d50f0285-00da-4b6e-b772-163aec763ea0)
-
+![Screenshot from 2024-01-21 17-43-09](https://github.com/luke-r-m/ghidra-themes/assets/47477832/456e4c95-a0af-44fa-b555-de4e6ac78df4)
