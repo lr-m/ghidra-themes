@@ -38,17 +38,17 @@ color.fg.listing.register = color.apple.yellow
 color.fg.listing.function.variable = color.apple.blue
 color.fg.listing.block.start = color.apple.yellow
 color.fg.listing.function.tag = color.apple.yellow
-color.fg.listing.tabs.text.selected = #454d54
+color.fg.listing.tabs.text.selected = color.apple.clicked
 
-color.bg.selection = color.palette.aliceblue
-color.bg.undefined = color.palette.aliceblue
+color.bg.selection = color.apple.selected
+color.bg.undefined = color.apple.selected
+color.bg.highlight = color.apple.highlight
 color.bg.header.active = color.apple.purple
-color.bg.header.inactive = color.palette.aliceblue
+color.bg.header.inactive = color.apple.selected
 
-color.palette.aliceblue =  #2e3338
-color.palette.highlight.transparent.yellow = #454d54
+color.palette.highlight.transparent.yellow = color.apple.clicked
 
-color.bg.filterfield = color.palette.aliceblue
+color.bg.filterfield = color.apple.selected
 color.fg.filterfield = color.apple.white
 
 color.fg.interpreterconsole.error = color.apple.red
@@ -72,6 +72,15 @@ color.bg.plugin.bookmark.warning = color.apple.orange
 color.bg.plugin.bookmark.analysis = color.apple.blue
 color.bg.plugin.bookmark.error = color.apple.red
 
+color.bg.listing.highlighter.default = color.apple.clicked
+color.bg.listing.highlighter.scoped.read = color.apple.purple
+color.bg.listing.highlighter.scoped.write = color.apple.green
+
+
+color.apple.clicked = #454d54
+color.apple.selected =  #2e3338
+color.apple.highlight = color.apple.purple
+
 color.apple.green = #00a04a
 color.apple.yellow = #d3b43f
 color.apple.orange = #ce6239
@@ -84,4 +93,3 @@ color.apple.white = #cfd7e8
 [color]system.color.bg.view = color.apple.grey
 [color]system.color.fg.view = color.apple.white
 
-font.monospaced = Monospaced-PLAIN-12
