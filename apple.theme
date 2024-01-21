@@ -3,7 +3,7 @@ lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
 
-color.fg.decompiler.comment = color.apple.orange
+color.fg.decompiler.comment = color.apple.purple
 color.fg.decompiler.constant = color.apple.purple
 color.fg.decompiler.function.name = color.apple.orange
 color.fg.decompiler.keyword = color.apple.green 
@@ -50,6 +50,27 @@ color.palette.highlight.transparent.yellow = #454d54
 
 color.bg.filterfield = color.palette.aliceblue
 color.fg.filterfield = color.apple.white
+
+color.fg.interpreterconsole.error = color.apple.red
+color.fg.consoletextpane = color.apple.white
+
+color.fg.listing.flow.arrow.selected = color.apple.yellow
+color.fg.listing.flow.arrow.active = color.apple.green
+color.fg.listing.flow.arrow.inactive = color.apple.red
+
+color.bg.plugin.overview.address.function = color.apple.purple
+color.bg.plugin.overview.address.instruction = color.apple.blue
+color.bg.plugin.overview.address.data = color.apple.yellow
+color.bg.plugin.overview.address.undefined = color.apple.red
+color.bg.plugin.overview.address.uninitialized = color.apple.white
+color.bg.plugin.overview.address.external.ref = color.apple.orange
+
+color.bg.plugin.bookmark.note = color.apple.purple
+color.bg.plugin.bookmark.default = color.apple.green
+color.bg.plugin.bookmark.info = color.apple.yellow
+color.bg.plugin.bookmark.warning = color.apple.orange
+color.bg.plugin.bookmark.analysis = color.apple.blue
+color.bg.plugin.bookmark.error = color.apple.red
 
 color.apple.green = #00a04a
 color.apple.yellow = #d3b43f
