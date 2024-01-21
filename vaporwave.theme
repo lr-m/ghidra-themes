@@ -1,0 +1,97 @@
+name = vaporwave
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+color.cursor.focused = color.fg
+
+color.fg.decompiler.comment = color.custom.color5
+color.fg.decompiler.constant = color.custom.color5
+color.fg.decompiler.function.name = color.custom.color3
+color.fg.decompiler.keyword = color.custom.color1 
+color.fg.decompiler.type = color.custom.color4
+color.fg.decompiler.variable = color.custom.color2
+color.fg.decompiler.parameter = color.custom.color6
+color.fg.decompiler.global = color.custom.color1
+
+color.fg.listing.bytes = color.custom.color6
+color.fg.listing.comment.auto = color.custom.color4
+color.fg.listing.comment.eol = color.custom.color4
+color.fg.listing.comment.plate = color.custom.color4
+color.fg.listing.comment.post = color.custom.color4
+color.fg.listing.comment.pre = color.custom.color4
+color.fg.listing.comment.ref.repeatable = color.custom.color4
+color.fg.listing.comment.repeatable = color.custom.color4
+color.fg.listing.constant = color.custom.color5
+color.fg.listing.ext.entrypoint = color.fg
+color.fg.listing.ext.ref.resolved = color.custom.color5
+color.fg.listing.function.name = color.custom.color3
+color.fg.listing.function.param.dynamic = color.custom.color5
+color.fg.listing.label.local = color.custom.color1
+color.fg.listing.label.primary = color.custom.color4
+color.fg.listing.mnemonic = color.custom.color1
+color.fg.listing.mnemonic.override = color.fg
+color.fg.listing.underline = color.custom.color4
+color.fg.listing.xref = color.custom.color1
+color.fg.listing.xref.read = color.custom.color4
+color.fg.listing.ext.ref.unresolved = color.custom.color6
+color.fg.listing.label.non.primary = color.custom.white
+color.fg.listing.register = color.custom.color2
+color.fg.listing.function.variable = color.custom.color6
+color.fg.listing.block.start = color.custom.color2
+color.fg.listing.function.tag = color.custom.color2
+color.fg.listing.tabs.text.selected = color.custom.clicked
+
+color.bg.selection = color.custom.selected
+color.bg.undefined = color.custom.selected
+color.bg.highlight = color.custom.highlight
+color.bg.header.active = color.custom.color5
+color.bg.header.inactive = color.custom.selected
+
+color.palette.highlight.transparent.yellow = color.custom.clicked
+
+color.bg.filterfield = color.custom.selected
+color.fg.filterfield = color.custom.white
+
+color.fg.interpreterconsole.error = color.custom.color4
+color.fg.consoletextpane = color.custom.white
+
+color.fg.listing.flow.arrow.selected = color.custom.color2
+color.fg.listing.flow.arrow.active = color.custom.color1
+color.fg.listing.flow.arrow.inactive = color.custom.color4
+
+color.bg.plugin.overview.address.function = color.custom.color5
+color.bg.plugin.overview.address.instruction = color.custom.color6
+color.bg.plugin.overview.address.data = color.custom.color2
+color.bg.plugin.overview.address.undefined = color.custom.color4
+color.bg.plugin.overview.address.uninitialized = color.custom.white
+color.bg.plugin.overview.address.external.ref = color.custom.color3
+
+color.bg.plugin.bookmark.note = color.custom.color5
+color.bg.plugin.bookmark.default = color.custom.color1
+color.bg.plugin.bookmark.info = color.custom.color2
+color.bg.plugin.bookmark.warning = color.custom.color3
+color.bg.plugin.bookmark.analysis = color.custom.color6
+color.bg.plugin.bookmark.error = color.custom.color4
+
+color.bg.listing.highlighter.default = color.custom.clicked
+color.bg.listing.highlighter.scoped.read = color.custom.color5
+color.bg.listing.highlighter.scoped.write = color.custom.color1
+
+
+color.custom.clicked = #330033
+color.custom.selected =  #003333
+color.custom.highlight = color.custom.color5
+
+color.custom.background = #001818
+color.custom.white = #ffffff
+
+color.custom.color1 = #ff6ac1
+color.custom.color2 = #a291fb
+color.custom.color3 = #ffcc29
+color.custom.color4 = #58ffd7
+color.custom.color5 = #ff00ff
+color.custom.color6 = #9c9c9c
+
+
+[color]system.color.bg.view = color.custom.background
+[color]system.color.fg.view = color.custom.white
+
