@@ -1,71 +1,96 @@
- 
 name = icicle
 lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
 
-color.fg.decompiler.comment = color.icicle.GreenBlue
-color.fg.decompiler.constant = color.icicle.White
-color.fg.decompiler.function.name = color.icicle.DarkBlue
-color.fg.decompiler.keyword = color.icicle.LightSteelBlue
-color.fg.decompiler.type = color.icicle.LightSkyBlue
-color.fg.decompiler.variable = color.icicle.PowderBlue
-color.fg.decompiler.parameter = color.icicle.SkyBlue
-color.fg.decompiler.global = color.icicle.LightCyan
-color.fg.decompiler.error = color.icicle.DarkBlue
-color.fg.decompiler.special = color.icicle.ErrorBlue
+color.fg.decompiler.comment = color.custom.color4
+color.fg.decompiler.constant = color.custom.color4
+color.fg.decompiler.function.name = color.custom.color3
+color.fg.decompiler.keyword = color.custom.color1 
+color.fg.decompiler.type = color.custom.color1
+color.fg.decompiler.variable = color.custom.color2
+color.fg.decompiler.parameter = color.custom.color2
+color.fg.decompiler.global = color.custom.color1
 
-color.fg.listing.bytes = color.icicle.DarkBlue
-color.fg.listing.comment.auto = color.icicle.GreenBlue
-color.fg.listing.comment.eol = color.icicle.GreenBlue
-color.fg.listing.comment.plate = color.icicle.GreenBlue
-color.fg.listing.comment.post = color.icicle.GreenBlue
-color.fg.listing.comment.pre = color.icicle.GreenBlue
-color.fg.listing.comment.ref.repeatable = color.icicle.White
-color.fg.listing.comment.repeatable = color.icicle.White
-color.fg.listing.constant = color.icicle.LightBlue
-color.fg.listing.ext.entrypoint = color.icicle.Black
-color.fg.listing.ext.ref.resolved = color.icicle.LightBlue
-color.fg.listing.function.name = color.icicle.Gainsboro
-color.fg.listing.function.param.dynamic = color.icicle.LightBlue
-color.fg.listing.label.local = color.icicle.LightCyan
-color.fg.listing.label.primary = color.icicle.White
-color.fg.listing.mnemonic = color.icicle.LightCyan
-color.fg.listing.mnemonic.override = color.icicle.Black
-color.fg.listing.underline = color.icicle.White
-color.fg.listing.xref = color.icicle.LightCyan
-color.fg.listing.xref.read = color.icicle.White
-color.fg.listing.ext.ref.unresolved = color.icicle.LightBlue
-color.fg.listing.label.non.primary = color.icicle.White
-color.fg.listing.register = color.icicle.SkyBlue
-color.fg.listing.function.variable = color.icicle.LightSkyBlue
-color.fg.listing.block.start = color.icicle.Gainsboro
-color.fg.listing.function.tag = color.icicle.Gainsboro
-color.fg.listing.tabs.text.selected = color.icicle.Gainsboro
-color.fg.listing.address = color.icicle.LightBlue
-color.fg.listing.ref.bad = color.icicle.DarkBlue
+color.fg.listing.bytes = color.custom.color3
+color.fg.listing.comment.auto = color.custom.color1
+color.fg.listing.comment.eol = color.custom.color1
+color.fg.listing.comment.plate = color.custom.color1
+color.fg.listing.comment.post = color.custom.color1
+color.fg.listing.comment.pre = color.custom.color1
+color.fg.listing.comment.ref.repeatable = color.custom.color1
+color.fg.listing.comment.repeatable = color.custom.color1
+color.fg.listing.constant = color.custom.color4
+color.fg.listing.ext.entrypoint = color.fg
+color.fg.listing.ext.ref.resolved = color.custom.color4
+color.fg.listing.function.name = color.custom.color3
+color.fg.listing.function.param.dynamic = color.custom.color4
+color.fg.listing.label.local = color.custom.color1
+color.fg.listing.label.primary = color.custom.color1
+color.fg.listing.mnemonic = color.custom.color1
+color.fg.listing.mnemonic.override = color.fg
+color.fg.listing.underline = color.custom.color1
+color.fg.listing.xref = color.custom.color1
+color.fg.listing.xref.read = color.custom.color1
+color.fg.listing.ext.ref.unresolved = color.custom.color3
+color.fg.listing.label.non.primary = color.custom.white
+color.fg.listing.register = color.custom.color2
+color.fg.listing.function.variable = color.custom.color3
+color.fg.listing.block.start = color.custom.color2
+color.fg.listing.function.tag = color.custom.color2
+color.fg.listing.tabs.text.selected = color.custom.clicked
+color.fg.listing.address = color.custom.color2
 
-color.bg.selection = color.icicle.VeryDarkBlue
-color.bg.undefined = color.icicle.DarkSlateGray
-color.bg.header.active = color.icicle.SlateGray
-color.bg.header.inactive = color.icicle.DarkSlateGray
+color.bg.selection = color.custom.selected
+color.bg.undefined = color.custom.selected
+color.bg.highlight = color.custom.highlight
+color.bg.header.active = color.custom.color3
+color.bg.header.inactive = color.custom.selected
 
-color.bg.filterfield = color.icicle.DarkSlateGray
-color.fg.filterfield = color.icicle.White
+color.palette.highlight.transparent.yellow = color.custom.clicked
 
-color.icicle.DarkSlateGray = #2F4F4F
-color.icicle.LightSlateGray = #778899
-color.icicle.SlateGray = #708090
-color.icicle.White = #F8F8FF
-color.icicle.LightBlue = #ADD8E6
-color.icicle.GreenBlue = #5CFFF7
-color.icicle.Gainsboro = #DCDCDC
-color.icicle.LightSteelBlue = #B0C4DE
-color.icicle.LightSkyBlue = #87CEFA
-color.icicle.PowderBlue = #B0E0E6
-color.icicle.SkyBlue = #87CEEB
-color.icicle.DarkBlue = #30ACD8
-color.icicle.VeryDarkBlue = #000050
-color.icicle.LightCyan = #E0FFFF
-color.icicle.Black = #000000
-color.icicle.ErrorBlue = #00FFCC
+color.bg.filterfield = color.custom.selected
+color.fg.filterfield = color.custom.white
+
+color.fg.interpreterconsole.error = color.custom.color1
+color.fg.consoletextpane = color.custom.white
+
+color.fg.listing.flow.arrow.selected = color.custom.color2
+color.fg.listing.flow.arrow.active = color.custom.color1
+color.fg.listing.flow.arrow.inactive = color.custom.color1
+
+color.bg.plugin.overview.address.function = color.custom.color4
+color.bg.plugin.overview.address.instruction = color.custom.color3
+color.bg.plugin.overview.address.data = color.custom.color2
+color.bg.plugin.overview.address.undefined = color.custom.color1
+color.bg.plugin.overview.address.uninitialized = color.custom.white
+color.bg.plugin.overview.address.external.ref = color.custom.color3
+
+color.bg.plugin.bookmark.note = color.custom.color4
+color.bg.plugin.bookmark.default = color.custom.color1
+color.bg.plugin.bookmark.info = color.custom.color2
+color.bg.plugin.bookmark.warning = color.custom.color3
+color.bg.plugin.bookmark.analysis = color.custom.color3
+color.bg.plugin.bookmark.error = color.custom.color1
+
+color.bg.listing.highlighter.default = color.custom.clicked
+color.bg.listing.highlighter.scoped.read = color.custom.color4
+color.bg.listing.highlighter.scoped.write = color.custom.color1
+
+
+color.custom.clicked = #2e3338
+color.custom.selected =  #03045e
+color.custom.highlight = #192bc2
+
+color.custom.background = #020818
+color.custom.white = #ffffff
+
+color.custom.color1 = #3fc1c0 // globals, listing instructions, reserved words, fun arguments, globals in listing, some arrows, types
+color.custom.color2 = #ffffff // registers, local variables
+color.custom.color3 = #0899ba // function names, address values in listing, byte values, function parameters
+color.custom.color4 = #add7f6 // numbers, comments, numbers in listing
+
+[color]system.color.bg.view = color.custom.background
+[color]system.color.fg.view = color.custom.white
+
+font.monospaced = Ubuntu Mono-PLAIN-12

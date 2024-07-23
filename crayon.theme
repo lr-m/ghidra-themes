@@ -39,6 +39,7 @@ color.fg.listing.function.variable = color.custom.color6
 color.fg.listing.block.start = color.custom.color2
 color.fg.listing.function.tag = color.custom.color2
 color.fg.listing.tabs.text.selected = color.custom.clicked
+color.fg.listing.address = color.custom.color2
 
 color.bg.selection = color.custom.selected
 color.bg.undefined = color.custom.selected
@@ -91,7 +92,7 @@ color.custom.color4 = #4a90e2
 color.custom.color5 = #a463f2
 color.custom.color6 = #ff1493
 
-
 [color]system.color.bg.view = color.custom.background
 [color]system.color.fg.view = color.custom.white
 
+font.monospaced = Ubuntu Mono-PLAIN-12

@@ -87,9 +87,10 @@ color.apple.orange = #ce6239
 color.apple.red = #c7526f
 color.apple.purple = #895cbc
 color.apple.blue = #0384df
-color.apple.grey = #22262a
+color.apple.grey = #171a1c
 color.apple.white = #cfd7e8
 
 [color]system.color.bg.view = color.apple.grey
 [color]system.color.fg.view = color.apple.white
 
+font.monospaced = Ubuntu Mono-PLAIN-12

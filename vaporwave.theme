@@ -39,6 +39,7 @@ color.fg.listing.function.variable = color.custom.color6
 color.fg.listing.block.start = color.custom.color2
 color.fg.listing.function.tag = color.custom.color2
 color.fg.listing.tabs.text.selected = color.custom.clicked
+color.fg.listing.address = color.custom.color3
 
 color.bg.selection = color.custom.selected
 color.bg.undefined = color.custom.selected
@@ -81,17 +82,18 @@ color.custom.clicked = #330033
 color.custom.selected =  #003333
 color.custom.highlight = color.custom.color5
 
-color.custom.background = #001818
+color.custom.background = #001a1a
 color.custom.white = #ffffff
 
-color.custom.color1 = #ff6ac1
-color.custom.color2 = #a291fb
-color.custom.color3 = #ffcc29
-color.custom.color4 = #58ffd7
-color.custom.color5 = #cc00cc
-color.custom.color6 = #9c9c9c
+color.custom.color1 = #ff71ce // light pink
+color.custom.color2 = #b967ff // light purple
+color.custom.color3 = #ffcc29 // golden yellow
+color.custom.color4 = #05ffa1 // greeny turquoise
+color.custom.color5 = #cc00cc // barbie pink
+color.custom.color6 = #58ffd7 // bright turquoise
 
 
 [color]system.color.bg.view = color.custom.background
 [color]system.color.fg.view = color.custom.white
 
+font.monospaced = Ubuntu Mono-PLAIN-12

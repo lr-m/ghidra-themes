@@ -3,59 +3,94 @@ lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
 
-color.fg.decompiler.comment = color.retro.red
-color.fg.decompiler.constant = color.retro.turquoise
-color.fg.decompiler.function.name = color.retro.red
-color.fg.decompiler.keyword = color.retro.blue 
-color.fg.decompiler.type = color.retro.orange
-color.fg.decompiler.variable = color.retro.pale
-color.fg.decompiler.parameter = color.retro.yellow
-color.fg.decompiler.global = color.retro.lightblue
+color.fg.decompiler.comment = color.custom.color4
+color.fg.decompiler.constant = color.custom.color4
+color.fg.decompiler.function.name = color.custom.color3
+color.fg.decompiler.keyword = color.custom.color1 
+color.fg.decompiler.type = color.custom.color1
+color.fg.decompiler.variable = color.custom.color2
+color.fg.decompiler.parameter = color.custom.color2
+color.fg.decompiler.global = color.custom.color1
 
-color.fg.listing.bytes = color.retro.yellow
-color.fg.listing.comment.auto = color.retro.orange
-color.fg.listing.comment.eol = color.retro.orange
-color.fg.listing.comment.plate = color.retro.orange
-color.fg.listing.comment.post = color.retro.orange
-color.fg.listing.comment.pre = color.retro.orange
-color.fg.listing.comment.ref.repeatable = color.retro.orange
-color.fg.listing.comment.repeatable = color.retro.orange
-color.fg.listing.constant = color.retro.turquoise
+color.fg.listing.bytes = color.custom.color3
+color.fg.listing.comment.auto = color.custom.color1
+color.fg.listing.comment.eol = color.custom.color1
+color.fg.listing.comment.plate = color.custom.color1
+color.fg.listing.comment.post = color.custom.color1
+color.fg.listing.comment.pre = color.custom.color1
+color.fg.listing.comment.ref.repeatable = color.custom.color1
+color.fg.listing.comment.repeatable = color.custom.color1
+color.fg.listing.constant = color.custom.color4
 color.fg.listing.ext.entrypoint = color.fg
-color.fg.listing.ext.ref.resolved = color.retro.turquoise
-color.fg.listing.function.name = color.retro.red
-color.fg.listing.function.param.dynamic = color.retro.turquoise
-color.fg.listing.label.local = color.retro.blue
-color.fg.listing.label.primary = color.retro.orange
-color.fg.listing.mnemonic = color.retro.turquoise
+color.fg.listing.ext.ref.resolved = color.custom.color4
+color.fg.listing.function.name = color.custom.color3
+color.fg.listing.function.param.dynamic = color.custom.color4
+color.fg.listing.label.local = color.custom.color1
+color.fg.listing.label.primary = color.custom.color1
+color.fg.listing.mnemonic = color.custom.color1
 color.fg.listing.mnemonic.override = color.fg
-color.fg.listing.underline = color.retro.blue
-color.fg.listing.xref = color.retro.blue
-color.fg.listing.xref.read = color.retro.orange
-color.fg.listing.ext.ref.unresolved = color.retro.yellow
-color.fg.listing.label.non.primary = color.retro.pale
-color.fg.listing.register = color.retro.pale
-color.fg.listing.function.variable = color.retro.yellow
-color.fg.listing.block.start = color.retro.lightblue
-color.fg.listing.function.tag = color.retro.lightblue
+color.fg.listing.underline = color.custom.color1
+color.fg.listing.xref = color.custom.color1
+color.fg.listing.xref.read = color.custom.color1
+color.fg.listing.ext.ref.unresolved = color.custom.color3
+color.fg.listing.label.non.primary = color.custom.white
+color.fg.listing.register = color.custom.color2
+color.fg.listing.function.variable = color.custom.color3
+color.fg.listing.block.start = color.custom.color2
+color.fg.listing.function.tag = color.custom.color2
+color.fg.listing.tabs.text.selected = color.custom.clicked
+color.fg.listing.address = color.custom.color2
 
-color.bg.selection = color.palette.aliceblue
-color.bg.undefined = color.palette.aliceblue
-color.bg.header.active = color.retro.red
-color.bg.header.inactive = color.palette.aliceblue
+color.bg.selection = color.custom.selected
+color.bg.undefined = color.custom.selected
+color.bg.highlight = color.custom.highlight
+color.bg.header.active = color.custom.color3
+color.bg.header.inactive = color.custom.selected
 
-color.palette.aliceblue = #003333
+color.palette.highlight.transparent.yellow = color.custom.clicked
 
-color.retro.lightblue = #93d2bd
-color.retro.dark = #04141c
-color.retro.blue = #087783
-color.retro.turquoise = #4cb4a4
-color.retro.pale = #e8d7a4
-color.retro.red = #b7300c
-color.retro.orange = #cc6404
-color.retro.yellow = #eb9b04
+color.bg.filterfield = color.custom.selected
+color.fg.filterfield = color.custom.white
 
-[color]system.color.bg.view = color.retro.dark
-[color]system.color.fg.view = #c5c8c5
+color.fg.interpreterconsole.error = color.custom.color1
+color.fg.consoletextpane = color.custom.white
 
-font.monospaced = Monospaced-PLAIN-12
+color.fg.listing.flow.arrow.selected = color.custom.color2
+color.fg.listing.flow.arrow.active = color.custom.color1
+color.fg.listing.flow.arrow.inactive = color.custom.color1
+
+color.bg.plugin.overview.address.function = color.custom.color4
+color.bg.plugin.overview.address.instruction = color.custom.color3
+color.bg.plugin.overview.address.data = color.custom.color2
+color.bg.plugin.overview.address.undefined = color.custom.color1
+color.bg.plugin.overview.address.uninitialized = color.custom.white
+color.bg.plugin.overview.address.external.ref = color.custom.color3
+
+color.bg.plugin.bookmark.note = color.custom.color4
+color.bg.plugin.bookmark.default = color.custom.color1
+color.bg.plugin.bookmark.info = color.custom.color2
+color.bg.plugin.bookmark.warning = color.custom.color3
+color.bg.plugin.bookmark.analysis = color.custom.color3
+color.bg.plugin.bookmark.error = color.custom.color1
+
+color.bg.listing.highlighter.default = color.custom.clicked
+color.bg.listing.highlighter.scoped.read = color.custom.color4
+color.bg.listing.highlighter.scoped.write = color.custom.color1
+
+
+color.custom.clicked = #32261b
+color.custom.selected =  #32261b
+color.custom.highlight = #53402d
+
+color.custom.background = #110d09
+color.custom.white = #ffffff
+
+color.custom.color1 = #e8d7a4 // globals, listing instructions, reserved words, fun arguments, globals in listing, some arrows, types
+color.custom.color2 = #4cb4a4 // registers, local variables
+color.custom.color3 = #b7300c // function names, address values in listing, byte values, function parameters
+color.custom.color4 = #eb9b04 // numbers, comments, numbers in listing
+
+[color]system.color.bg.view = color.custom.background
+[color]system.color.fg.view = color.custom.white
+
+font.monospaced = Ubuntu Mono-PLAIN-12

@@ -1,4 +1,4 @@
-name = custom
+name = rasta
 lookAndFeel = Flat Dark
 useDarkDefaults = true
 color.cursor.focused = color.fg
@@ -78,17 +78,17 @@ color.bg.listing.highlighter.scoped.read = color.custom.color4
 color.bg.listing.highlighter.scoped.write = color.custom.color1
 
 
-color.custom.clicked = #32261b
-color.custom.selected =  #32261b
-color.custom.highlight = #53402d
+color.custom.clicked = #2e3338
+color.custom.selected =  #2e3338
+color.custom.highlight = #454d54
 
-color.custom.background = #020204
+color.custom.background = #000000
 color.custom.white = #ffffff
 
-color.custom.color1 = #53BF9D // globals, listing instructions, reserved words, fun arguments, globals in listing, some arrows, types
-color.custom.color2 = #F94C66 // registers, local variables
-color.custom.color3 = #BD4291 // function names, address values in listing, byte values, function parameters
-color.custom.color4 = #FFC54D // numbers, comments, numbers in listing
+color.custom.color1 = #0fbd72 // globals, listing instructions, reserved words, fun arguments, globals in listing, some arrows, types
+color.custom.color2 = #fbb927 // registers, local variables
+color.custom.color3 = #df212b // function names, address values in listing, byte values, function parameters
+color.custom.color4 = #ffffff // numbers, comments, numbers in listing
 
 [color]system.color.bg.view = color.custom.background
 [color]system.color.fg.view = color.custom.white
