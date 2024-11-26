@@ -63,3 +63,7 @@ color.custom.color4 = #ffcc99
 
 ![vaporwave.png](/images/vaporwave.png)
 
+### Gruvbox
+
+![gruvbox.png](/images/gruvbox.png)
+
