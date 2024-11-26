@@ -1,0 +1,86 @@
+name = gruvbox-material
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+color.cursor.focused = #d4be98
+
+color.fg.decompiler.comment = #d8a657
+color.fg.decompiler.constant = #d8a657
+color.fg.decompiler.function.name = #89b482
+color.fg.decompiler.keyword = #ea6962
+color.fg.decompiler.type = #ea6962
+color.fg.decompiler.variable = #a9b665
+color.fg.decompiler.parameter = #a9b665
+color.fg.decompiler.global = #ea6962
+
+color.fg.listing.bytes = #89b482
+color.fg.listing.comment.auto = #d8a657
+color.fg.listing.comment.eol = #d8a657
+color.fg.listing.comment.plate = #d8a657
+color.fg.listing.comment.post = #d8a657
+color.fg.listing.comment.pre = #d8a657
+color.fg.listing.comment.ref.repeatable = #d8a657
+color.fg.listing.comment.repeatable = #d8a657
+color.fg.listing.constant = #d8a657
+color.fg.listing.ext.entrypoint = #d4be98
+color.fg.listing.ext.ref.resolved = #d8a657
+color.fg.listing.function.name = #89b482
+color.fg.listing.function.param.dynamic = #d8a657
+color.fg.listing.label.local = #ea6962
+color.fg.listing.label.primary = #ea6962
+color.fg.listing.mnemonic = #ea6962
+color.fg.listing.mnemonic.override = #d4be98
+color.fg.listing.underline = #ea6962
+color.fg.listing.xref = #ea6962
+color.fg.listing.xref.read = #ea6962
+color.fg.listing.ext.ref.unresolved = #89b482
+color.fg.listing.label.non.primary = #d4be98
+color.fg.listing.register = #a9b665
+color.fg.listing.function.variable = #89b482
+color.fg.listing.block.start = #a9b665
+color.fg.listing.function.tag = #a9b665
+color.fg.listing.tabs.text.selected = #3c3836
+color.fg.listing.address = #a9b665
+
+color.bg.selection = #424a3e
+color.bg.undefined = #472322
+color.bg.highlight = #0f3a42
+color.bg.header.active = #89b482
+color.bg.header.inactive = #574833
+
+color.palette.highlight.transparent.yellow = #574833
+
+color.bg.filterfield = #5b534d
+color.fg.filterfield = #d4be98
+
+color.fg.interpreterconsole.error = #ea6962
+color.fg.consoletextpane = #d4be98
+
+color.fg.listing.flow.arrow.selected = #a9b665
+color.fg.listing.flow.arrow.active = #ea6962
+color.fg.listing.flow.arrow.inactive = #ea6962
+
+color.bg.plugin.overview.address.function = #d8a657
+color.bg.plugin.overview.address.instruction = #89b482
+color.bg.plugin.overview.address.data = #a9b665
+color.bg.plugin.overview.address.undefined = #ea6962
+color.bg.plugin.overview.address.uninitialized = #d4be98
+color.bg.plugin.overview.address.external.ref = #89b482
+
+color.bg.plugin.bookmark.note = #d8a657
+color.bg.plugin.bookmark.default = #ea6962
+color.bg.plugin.bookmark.info = #a9b665
+color.bg.plugin.bookmark.warning = #89b482
+color.bg.plugin.bookmark.analysis = #89b482
+color.bg.plugin.bookmark.error = #ea6962
+
+color.bg.listing.highlighter.default = #3c3836
+color.bg.listing.highlighter.scoped.read = #d8a657
+color.bg.listing.highlighter.scoped.write = #ea6962
+
+color.custom.clicked = #3c3836
+color.custom.highlight = #504945
+color.custom.background = #282828
+color.custom.white = #d4be98
+
+font.monospaced = Ubuntu Mono-PLAIN-12
+
