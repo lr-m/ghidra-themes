@@ -1,0 +1,104 @@
+name = base16-railscasts
+lookAndFeel = Flat Dark
+useDarkDefaults = true
+
+// Custom color definitions
+color.custom.color1 = #a5c261
+color.custom.color2 = #b6b3eb
+color.custom.color3 = #6d9cbe
+color.custom.color4 = #5a647e
+color.custom.color5 = #cc7833
+color.custom.color6 = #d4cfc9
+color.custom.color7 = #2b2b2b
+color.custom.color8 = #e6e1dc
+color.custom.color9 = #da4939
+color.custom.color10 = #bc9458
+color.custom.color11 = #4a4a4a
+color.custom.color12 = #434935
+color.custom.color13 = #495038
+
+// Core colors
+color.bg = color.custom.color7
+color.bg.tree = color.custom.color7
+color.fg = color.custom.color8
+
+// Comment colors
+color.fg.decompiler.comment = color.custom.color4
+color.fg.listing.comment.auto = color.custom.color4
+color.fg.listing.comment.eol = color.custom.color4
+color.fg.listing.comment.plate = color.custom.color4
+color.fg.listing.comment.post = color.custom.color4
+color.fg.listing.comment.pre = color.custom.color4
+color.fg.listing.comment.ref.repeatable = color.custom.color4
+color.fg.listing.comment.repeatable = color.custom.color4
+
+// Keyword and type colors
+color.fg.decompiler.keyword = color.custom.color2
+color.fg.decompiler.type = color.custom.color9
+color.fg.listing.mnemonic = color.custom.color2
+color.fg.listing.label.local = color.custom.color2
+color.fg.listing.label.primary = color.custom.color3
+color.fg.listing.underline = color.custom.color2
+color.fg.listing.xref = color.custom.color3
+color.fg.listing.xref.read = color.custom.color9
+color.fg.listing.xref.write = color.custom.color2
+color.fg.listing.ext.entrypoint = color.custom.color2
+color.fg.listing.mnemonic.override = color.custom.color3
+
+// Variable and register colors
+color.fg.decompiler.variable = color.custom.color5
+color.fg.decompiler.parameter = color.custom.color5
+color.fg.listing.register = color.custom.color5
+color.fg.listing.block.start = color.custom.color2
+color.fg.listing.function.tag = color.custom.color3
+color.fg.listing.address = color.custom.color4
+
+// Function and reference colors
+color.fg.decompiler.function.name = color.custom.color3
+color.fg.listing.function.name = color.custom.color3
+color.fg.listing.bytes = color.custom.color10
+color.fg.listing.ext.ref.unresolved = color.custom.color9
+color.fg.listing.function.variable = color.custom.color5
+color.fg.decompiler.global = color.custom.color9
+
+// Constant and literal colors
+color.fg.decompiler.constant = color.custom.color1
+color.fg.listing.constant = color.custom.color1
+color.fg.listing.ext.ref.resolved = color.custom.color9
+color.fg.listing.function.param.dynamic = color.custom.color5
+
+// UI element colors
+color.bg.selection = color.custom.color11
+color.bg.undefined = color.custom.color11
+color.bg.highlight = color.custom.color11
+color.bg.currentline = color.custom.color11
+color.bg.listing.highlighter.default = color.custom.color12
+color.bg.decompiler.current.variable = color.custom.color12
+color.bg.header.active = color.custom.color1
+color.bg.header.inactive = color.custom.color11
+color.fg.header.active = color.custom.color7
+color.fg.header.inactive = color.custom.color8
+color.bg.filterfield = color.custom.color11
+color.fg.filterfield = color.custom.color8
+color.bg.decompiler.highlights.default = color.custom.color13
+color.fg.interpreterconsole.error = color.custom.color1
+color.fg.consoletextpane = color.custom.color8
+color.fg.listing.flow.arrow.selected = color.custom.color2
+color.fg.listing.flow.arrow.active = color.custom.color2
+color.fg.listing.flow.arrow.inactive = color.custom.color2
+
+// Plugin Elements
+color.bg.plugin.bookmark.analysis = color.custom.color4
+color.bg.plugin.bookmark.default = color.custom.color5
+color.bg.plugin.bookmark.error = color.custom.color9
+color.bg.plugin.bookmark.info = color.custom.color10
+color.bg.plugin.bookmark.warning = color.custom.color3
+color.bg.plugin.bookmark.note = color.custom.color2
+color.bg.plugin.overview.address.function = color.custom.color4
+color.bg.plugin.overview.address.instruction = color.custom.color5
+color.bg.plugin.overview.address.data = color.custom.color9
+color.bg.plugin.overview.address.undefined = color.custom.color10
+color.bg.plugin.overview.address.uninitialized = color.custom.color3
+color.bg.plugin.overview.address.external.ref = color.custom.color2
+
+font.monospaced = Ubuntu Mono-PLAIN-12
