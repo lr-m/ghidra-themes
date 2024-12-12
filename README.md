@@ -2,13 +2,13 @@
 
 <p align="center">
 
-  <img src="images/logo/png" width="400">
+  <img src="images/logo.png" width="400">
 
 </p>
 
 <div align="center">
 
-**A collection of themes for Ghidra to make long hours of reverse-engineering even more enjoyable!**
+**A collection of over 200 Ghidra themes to make long hours of reverse-engineering even more enjoyable!**
 
 (Shout out the O.G. [dark mode](https://github.com/zackelia/ghidra-dark) for carrying me through the dark days, the new theme for that is [here](https://github.com/zackelia/ghidra-dark-theme))
 
